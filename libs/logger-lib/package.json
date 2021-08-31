@@ -1,0 +1,20 @@
+{
+  "name": "@flight-workspace/logger-lib",
+  "version": "45.0.1",
+  "author": {
+    "name": "myself",
+    "email": "myself@me.at"
+  },
+  "repository": {
+    "directory": "dir",
+    "type": "git",
+    "url": "http://mygit"
+  },
+  "peerDependencies": {
+    "@angular/common": ">=11.0.0 <14.0.0",
+    "@angular/core": ">=11.0.0 <14.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
